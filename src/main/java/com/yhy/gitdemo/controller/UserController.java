@@ -9,5 +9,6 @@ public class UserController {
         System.out.println(145);
         System.out.println(123);
         System.out.println(789);
+        System.out.println(45);
     }
 }
